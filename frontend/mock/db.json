@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "name": "Admin User"
+    }
+  ],
+  "visitors": [
+    {
+      "name": "paryank",
+      "phone": "9883453534",
+      "unit": "12",
+      "visitDate": "2026-09-11",
+      "status": "approved",
+      "id": 1
+    },
+    {
+      "name": "aman",
+      "phone": "9546544354",
+      "unit": "23",
+      "visitDate": "2026-09-09",
+      "status": "pending",
+      "id": 2
+    },
+    {
+      "name": "parvati",
+      "phone": "8979543443",
+      "unit": "34",
+      "visitDate": "2026-09-11",
+      "status": "pending",
+      "id": 3
+    }
+  ]
+}
